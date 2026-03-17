@@ -1,37 +1,31 @@
+)sampreet-singh/moc.buhtig//:sptth(]sampreet-singh[ :buHtiG -
+)/eliforp-ruoy/ni/moc.nideknil.www//:sptth(]eliforp-nideknil-ruoy[ :nIdekniL -
+)moc.elpmaxe@liame-ruoy:otliam(]moc.elpmaxe@liame-ruoy[ :liamE -
+!tuo hcaer ot eerf leeF
 
----
+hcuoT ni teG 📫 ##
 
-!tnempoleved erawtfos ssucsid ro stcejorp no etaroballoc ot ekil d'uoy fi tuo hcaer dna seirotisoper ym erolpxe ot eerf leeF
+.2 tcejorp fo noitpircsed feirB - )#(]2 tcejorP[ -
+.1 tcejorp fo noitpircsed feirB - )#(]1 tcejorP[ -
 
-tcennoC s'teL ¬ð ##
+stcejorP 💼 ##
 
-tfarc ym gnivorpmi dna gninrael ylsuounitnoC -
-stcejorp ecruos-nepo ot gnitubirtnoC -
-snoitacilppa elbalacs dna tsubor gnidliuB -
-gnimmargorp smetsys ni snoitulos evitavonni gnirolpxE -
+.secitcarp spOveD dna gnitupmoC duolC tuoba erom gninrael yltnerruC
 
-nO gnikroW m'I tahW ¯ð ##
+gninraeL 📚 ##
 
-.tnempoleved bew kcats-lluf ot snoitacilppa lacitirc-ecnamrofrep dna smetsys deddebme morf ,sniamod tnereffid ssorca ylevitceffe krow ot em swolla tes lliks esrevid yM .tnempoleved noitacilppa nredom dna gnimmargorp smetsys level-wol fo noitcesretni eht gnirolpxe yojne I
+JilletnI ,oidutS lausiV ,rekcoD ,tiG :**slooT** -
+ksalF dna ,sj.edoN ,tcaeR htiw railimaF :**skrowemarF** -
+tpircSavaJ ,tpircSepyT ,nohtyP ,++C ,ylbmessA :**segaugnaL** -
 
-eM tuobA ð ##
+sllikS 🚀 ##
 
-snoitacilppa mroftalp-ssorC -
-tnempoleved beW -
-noitazimitpo ecnamrofreP -
-erutcetihcra erawtfoS -
-gnimmargorp smetsyS -
-tseretnI fo saerA ###
+.snoitacilppa cimanyd dna tnempoleved dnetnorf ni dnuorgkcab gnortS :**tpircSavaJ** -
+.gnipyt citats htiw snoitacilppa bew tsubor gnidliub ni dellikS :**tpircSepyT** -
+.sisylana atad dna ,noitamotua ,gnitpircs ni tneiciforP :**nohtyP** -
+.tnempoleved smetsys dna gnimmargorp detneiro-tcejbo ni decneirepxE :**++C** -
+.snoitcaretni erawdrah dna gnimmargorp level-wol gnidnatsrednU :**ylbmessA** -
 
-secneirepxe bew evitcaretni dna tnempoleved dnetnorF - **tpircSavaJ** -
-snoitacilppa elbalacs dna tnempoleved bew efas-epyT - **tpircSepyT** -
-gnitpircs dna ,noitamotua ,gnissecorp ataD - **nohtyP** -
-snoitacilppa ecnamrofrep-hgih dna detneiro-tcejbO - **++C** -
-noitcaretni erawdrah dna gnimmargorp smetsys level-woL - **ylbmessA** -
-segaugnaL ###
+:gnidulcni ,segaugnal gnimmargorp elpitlum ni esitrepxe htiw repoleved erawtfos etanoissap a m'I
 
-seigolonhceT & sllikS ¸ï ð ##
-
-.gnimmargorp smetsys level-wol ni tseretni gnorts a dna segaugnal gnimmargorp elpitlum ni esitrepxe htiw repoleved etanoissap a m'I !eliforp buHtiG ym ot emocleW
-
-ð sampreet-singh m'I !olleH #
+👋 sampreet-singh m'I ,ereht iH #
