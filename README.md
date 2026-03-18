@@ -1,10 +1,11 @@
-- buHtiG: [sampreet-singh](https://github.com/sampreet-singh) 
+- buHtiG: [sampreet-singh](https://github.com/sampreet-singh)
+  
 !tuo hcaer ot eerf leeF
 
 ## hcuoT ni teG 📫 
 
-- .2 tcejorp fo noitpircsed feirB - )#(]2 tcejorP[ 
-- .1 tcejorp fo noitpircsed feirB - )#(]1 tcejorP[ 
+-  tcejorp fo noitpircsed feirB - )#(]2 tcejorP[ 
+- tcejorp fo noitpircsed feirB - )#(]1 tcejorP[ 
 
 ## stcejorP 💼
 
