@@ -1,6 +1,4 @@
-- )sampreet-singh/moc.buhtig//:sptth(]sampreet-singh[ :buHtiG 
-- )/eliforp-ruoy/ni/moc.nideknil.www//:sptth(]eliforp-nideknil-ruoy[ :nIdekniL 
-- )moc.elpmaxe@liame-ruoy:otliam(]moc.elpmaxe@liame-ruoy[ :liamE 
+- buHtiG: [sampreet-singh](https://github.com/sampreet-singh) 
 !tuo hcaer ot eerf leeF
 
 ## hcuoT ni teG 📫 
